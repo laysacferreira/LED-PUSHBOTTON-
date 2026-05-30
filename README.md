@@ -1,4 +1,4 @@
-# 🤖 Projeto: Sistema de Controle de LEDs com Botões (MicroPython)
+# 🤖 Sistema de Controle de LEDs com Botões (MicroPython)
 
 ## 🧠 Sobre o Projeto
 
